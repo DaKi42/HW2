@@ -41,7 +41,6 @@ void displayEmployees(const Employee* employees, int numEmployees) {
 }
 
 int main() {
-    setlocale(LC_ALL, "Russian");
     Employee employees[10];
     int numEmployees = 0;
 
